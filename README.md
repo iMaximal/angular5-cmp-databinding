@@ -1,4 +1,4 @@
-# N5CompleteGuide
+# Angular 5 Complete Guide
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
